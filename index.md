@@ -14,11 +14,12 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
+
 ![helix-logo](./helix_logo.png) <!-- this image is served from this content repository -->
 
 # Helix - first-helix-project
 
-It works! first-helix-project is up and running.
+It works! first-helix-project is up and running. And let's see what happens.
 
 ## What's next?
 

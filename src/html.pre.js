@@ -22,7 +22,8 @@
  * @param payload.content The content
  */
 function pre(payload) {
-  payload.content.time = `${new Date()}`;
+    payload.content.time = `${new Date()}`;
+    console.log(payload.content);
 }
 
 module.exports.pre = pre;
